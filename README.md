@@ -1,4 +1,4 @@
-## The Full JavaScript & ES6 Tutorial - (including ES7 & React)
+# The Full JavaScript & ES6 Tutorial - (including ES7 & React)
  
 #### Please use this resource for the following reasons!
 
